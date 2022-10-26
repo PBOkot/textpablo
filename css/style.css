@@ -138,8 +138,8 @@ header .navbar a:hover{
 }
 
 .home .content img{
-    height: rem;
-    width:70rem;
+    height: 15rem;
+    width:50rem;
    
     object-fit: cover;
   
